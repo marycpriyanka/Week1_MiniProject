@@ -60,3 +60,8 @@ input
 {
     margin-bottom: 2%;
 }
+
+a:hover
+{
+    color: white;
+}
